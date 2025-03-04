@@ -1,1 +1,3 @@
 # Classification_of_Earthquake_Perception
+
+This project aims to predict whether individuals are likely to change their residence after experiencing an earthquake, based on their perception of the event and various demographic and situational factors. The target variable, "Change of Residence", is a binary indicator that shows whether or not people intend to relocate after an earthquake. Using machine learning models, we will analyze features such as marital status, number of family members, presence of disabilities in the family, and number of vehicles owned, to determine the likelihood of relocation.
